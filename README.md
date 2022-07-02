@@ -42,9 +42,9 @@
   * [실습] 비지도학습 - PCA 차원 축소
   * [실습] 비지도학습 - PCA 얼굴 예제 실습
   * [실습] 비지도학습 - 얼굴 데이터 셋 분석
-* 추천 시스템 기본 및 실습
+* 추천 시스템 기본 및 실습 [실패](https://github.com/c920720a/AI_202207/blob/d60d1a0893d4825da983cad5058980951af6ff2b/20220702_02_05_%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C.ipynb) , [MOVIE](https://github.com/c920720a/AI_202207/blob/d60d1a0893d4825da983cad5058980951af6ff2b/20220702_03_01_movie_classification.ipynb)
   * 추천 시스템 기본 이해
-  * [영화] 사용자와 아이템 간의 평점 기반 추천 시스템
+  * [영화] 사용자와 아이템 간의 평점 기반 추천 시스템 
 　
 ## PART 04. 실전 데이터 분석
 * [캘리포니아 집값 데이터 분석] [CODE](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220628_04_01_California.ipynb)
@@ -84,7 +84,7 @@
 * [ing] 딥러닝 자연어 처리 [CODE 01](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_02_01_Text_Preprocessing.ipynb) , [CODE 02](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_02_02_Text_Preprocessing.ipynb)
   * WordEmbedding(단어 임베딩) 기본 및 실습
   * 딥러닝 사전 훈련 모델을 활용한 데이터 분석 [CODE](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_02_03_SimpleRNN.ipynb)
-* GAN 기본 및 딥러닝 응용
+* GAN 기본 및 딥러닝 응용 [CODE](https://github.com/c920720a/AI_202207/blob/d60d1a0893d4825da983cad5058980951af6ff2b/20220702_02_04_GAN_colab.ipynb)
   * 내용 : 이미지 생성 및 이미지 결합으로 그림의 화풍 적용
   * [자료및 실습] [딥러닝 GAN] - [GAN - 적대적 생성 신경망], [GAN - NeuralStyleTransfer]
 　
