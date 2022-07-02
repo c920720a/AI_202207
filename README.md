@@ -81,7 +81,7 @@
   * 기본 HTML, PDF
   * 실전 데이터 실습
     * [ing] kaggle 데이터 셋으로 실습해 보기
-* [ing] 딥러닝 자연어 처리 [CODE 01](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_02_01_Text_Preprocessing.ipynb_ , [CODE 02](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_02_02_Text_Preprocessing.ipynb)
+* [ing] 딥러닝 자연어 처리 [CODE 01](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_02_01_Text_Preprocessing.ipynb) , [CODE 02](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_02_02_Text_Preprocessing.ipynb)
   * WordEmbedding(단어 임베딩) 기본 및 실습
   * 딥러닝 사전 훈련 모델을 활용한 데이터 분석 [CODE](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_02_03_SimpleRNN.ipynb)
 * GAN 기본 및 딥러닝 응용
