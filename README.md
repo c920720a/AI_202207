@@ -32,7 +32,8 @@
     * [TITANIC](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220627_03_06_%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89.ipynb)
     * [RANDOMFOREST](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220627_03_07_RandomForest.ipynb)
     * [데이터전처리](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220628_03_08_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
-* 평가지표 
+    * [원핫인코딩](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_03_01_OneHotEncoding.ipynb)
+* 평가지표 [CODE 01](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_01_02_%ED%8F%89%EA%B0%80_linear%20model.ipynb) , [CODE 02](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_01_03_%ED%8F%89%EA%B0%80_CrossValidation_Grid%20Search.ipynb) , [CODE 03](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_01_04_%ED%8F%89%EA%B0%80_model_validation.ipynb) , [구간분할, 일변량 비선형 변환](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_01_05_%EA%B5%AC%EA%B0%84%EB%B6%84%ED%95%A0,%20%EC%9D%BC%EB%B3%80%EB%9F%89%20%EB%B9%84%EC%84%A0%ED%98%95%20%EB%B3%80%ED%99%98.ipynb)
   * 평가지표 실습(회귀)
   * 평가지표 Classification
     * 평가 - 모델 평가(1), (2), (3), (4)
@@ -49,39 +50,40 @@
 * [캘리포니아 집값 데이터 분석] [CODE](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220628_04_01_California.ipynb)
 * [Spaceship Titanic 데이터 분석] [CODE](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220628_04_02_Spaceship_Titanic.ipynb)
   * 결측치 처리(SimpleImputer), 라벨 인코딩(LabelEncoding), 기본 데이터 처리, Plotly
-* [ibovespa-stocks 브라질 주식 데이터 분석] [CODE](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220628_04_03_ibovespa_stocks.ipynb)
+* [ibovespa-stocks 브라질 주식 데이터 분석] [CODE 01](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220628_04_03_ibovespa_stocks.ipynb) , [CODE_NEW](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_01_01_ibovespa-stocks.ipynb)
   * 내용 : 머신러닝 모델 만들기, Prophet 활용 모델 만들기
 * 캐글 데이터 타이타닉 실습
-  * 성인 인구조사 소득 예측 대회
-* [생활] 와인 품질 감별 예측 데이터 분석 및 모델 만들기
-* [경제] Santander 고객 만족 분석 데이터 예측 모델 만들기
+  * 성인 인구조사 소득 예측 대회 [CODE](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_01_06_kaggle_contest_4th.ipynb)
+* [생활] 와인 품질 감별 예측 데이터 분석 및 모델 만들기 [CODE](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220701_01_01_Wine%20Quality%20Dataset.ipynb)
+* [경제] Santander 고객 만족 분석 데이터 예측 모델 만들기 [CODE](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_01_07_Santander%20Customer.ipynb)
 　
 ## PART 05. 딥러닝 기본 및 활용
 * 참고 URL : https://github.com/LDJWJ/DL_Basic
 * numpy 기본 이해
   * (자료) numpy 기본
-* 기본 신경망 이해, CNN, RNN (12h)
+* 기본 신경망 이해, CNN, RNN (12h) [CODE](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220628_05_01_DL%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.ipynb)
   * (자료) 딥러닝 시작하기, 딥러닝 기본, CNN 시작하기
-  * (실습) 딥러닝 시작하기 - Titanic
+  * (실습) 딥러닝 시작하기 - Titanic [1st](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220629_01_01_Kaggle_Titanic_Survival_first.ipynb) , [2nd](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220629_01_02_Kaggle_Titanic_Survival_second.ipynb) , [3rd](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220629_01_03_Kaggle_Titanic_Survival_last.ipynb)
   * (CNN 실습) CNN - CNN FirstModel, SecondModel
-* 실전 데이터 실습 [기본](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220628_05_01_DL%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.ipynb) , [MNIST](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220628_05_02_DL_MNIST.ipynb)
+* 실전 데이터 실습 [기본](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220628_05_01_DL%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.ipynb) , [MNIST 01](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220628_05_02_DL_MNIST.ipynb), [MNIST 02](https://github.com/c920720a/AI_202207/blob/98b9cfa1b69907cd23fec3a38c2ff9534298de61/20220628_05_02_DL_MNIST.ipynb)
   * Cifar-10 데이터 실습
     * (실습) CNN - CIFAR-10 (1), (2)
   * [ing] [영화] 영화 리뷰 데이터 IMDB RNN모델 구현해 보기
 * 기본 업그레이드 - 모델 개선 및 활용
   * DROPOUT, 활성화 함수의 이해
     * (자료) [딥러닝 기본 및 실습 - PDF] - 모델 개선(Dropout)
-    * (실습) [MNIST 이미지 데이터 셋] - MNIST 03, MNIST 04
-    * (실습) [CNN] - [CNN Upgrade - LeakyRelu]
+    * (실습) [MNIST 이미지 데이터 셋] - MNIST 03, MNIST 04 [MOVIE](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220701_02_01_movie_classification.ipynb) , [NEWS](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220701_02_02_news_classification.ipynb)
+    * (실습) [CNN] - [CNN Upgrade - LeakyRelu] [CODE 01](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220701_03_01_CNN.ipynb) , [CODE 02](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220701_03_02_CNN.ipynb)
+    * [MNIST, Tensorflow 2.x](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220701_03_04_Tensorflow_2_x.ipynb)
 * 전이학습의 이해(VGG16 등)
-  * (실습) [Cat vs Dog Dataset] - CNN(1)~(4)
+  * (실습) [Cat vs Dog Dataset] - CNN(1)~(4) [CODE](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220701_03_03_Cat_vs_Dog_Dataset.ipynb)
 * Automl의 기본 이해
   * 기본 HTML, PDF
   * 실전 데이터 실습
     * [ing] kaggle 데이터 셋으로 실습해 보기
-* [ing] 딥러닝 자연어 처리
+* [ing] 딥러닝 자연어 처리 [CODE 01](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_02_01_Text_Preprocessing.ipynb_ , [CODE 02](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_02_02_Text_Preprocessing.ipynb)
   * WordEmbedding(단어 임베딩) 기본 및 실습
-  * 딥러닝 사전 훈련 모델을 활용한 데이터 분석
+  * 딥러닝 사전 훈련 모델을 활용한 데이터 분석 [CODE](https://github.com/c920720a/AI_202207/blob/af0a38f458c1a1f28f27e4f79e7e1ca6b5ee84ab/20220702_02_03_SimpleRNN.ipynb)
 * GAN 기본 및 딥러닝 응용
   * 내용 : 이미지 생성 및 이미지 결합으로 그림의 화풍 적용
   * [자료및 실습] [딥러닝 GAN] - [GAN - 적대적 생성 신경망], [GAN - NeuralStyleTransfer]
